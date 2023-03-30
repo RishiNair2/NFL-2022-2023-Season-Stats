@@ -15,5 +15,5 @@ I am tasked with:
 
 Main Datasets Analyzed:
 
-- 2022 NFL Season Misc:Defensive Stat-Based Queries SQL Based Queris
-- 2022-2023 NFL Offenisve Stats SQL Based Queris
+- 2022 NFL Season Misc:Defensive Stat-Based Queries SQL Based Queries
+- 2022 NFL Season Offensive Stat-Based Queries SQL Based Queries
